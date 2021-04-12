@@ -1,0 +1,55 @@
+body. p{
+    margin:0;
+    padding:0;
+}
+
+nav {
+    display:flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: auto;
+    padding: 2cm;
+    }
+nav a {
+    color:black;
+    text-decoration: none;
+}
+nav img {
+    height:20px;
+}
+section {
+    width:80%;
+    margin: 7cm auto;
+    text-align: center;
+}
+input {
+    width:80%;
+    padding: 0.5m;
+    border-radius: 20px;
+    border:1px solid grey;
+}
+.btn container {
+    margin-top: 1cm;
+}
+.btn container button {
+    padding:1cm;
+    border:none;
+}
+footer {
+    background-color: rgb(248, 239, 239);
+}
+.footer-top {
+    padding:1cm;
+}
+.footer-bottom {
+    padding:1cm;
+    display:flex;
+    justify-content: space-between;
+    border-top: 1px solid grey;
+}
+.left a{
+    margin-right: 1cm;
+}
+.right a{
+    margin-right: 1cm;
+}
